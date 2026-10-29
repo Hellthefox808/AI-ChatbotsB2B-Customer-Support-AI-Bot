@@ -47,6 +47,7 @@ backend/data/rea_evidence_bundle.json
 # Markdown & AI context documentation (excluded from GitHub per hygiene policy)
 *.md
 **/*.md
+!README.md
 
 # Local context / working artifacts
 PROJECT_STATE.md
